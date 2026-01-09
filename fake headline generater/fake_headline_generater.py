@@ -46,3 +46,5 @@ while True:
         break
     else:
         continue
+
+print("Thank you for using the Fake Headline Generator!")
